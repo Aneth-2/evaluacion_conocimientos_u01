@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     float op1, op2;
-    char op; 
+    char op=0;//este va a ser el operador
     do{
         cout<<"ingrese dos numeros a operar: ";cin>>op1>>op2;
         system("cls");
