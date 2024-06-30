@@ -18,7 +18,7 @@ int main(){
     else{
         cout<<"Son pesi"<<endl;
     }
-    
+     cout<<"¿Comprobar mas numeros?s/n: ";cin>>cont;
     }while(cont=='s');
     return 0;
 }
